@@ -1,0 +1,42 @@
+/* ****************** homepage****************  */
+.tender-img {
+    width: 100vw;
+}
+
+
+/* ***************** MAIN PAGE **************** */
+.main {
+    background-color: #02CCFE;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.addtender {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.tender-table {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* *************** bid table ********* */
+
+.bidtable {
+    background-color: #02CCFE;
+    width: 100vw;
+    height: 100vh;
+    display: flex; 
+    flex-direction: column;   
+    align-items: center;
+    padding: 50px;
+}
